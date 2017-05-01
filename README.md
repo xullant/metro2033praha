@@ -1,2 +1,4 @@
 # metro2033praha
-Explorativní textová hra z prostředí postapokalyptického pražského podzemí.
+Textová explorační hra z prostředí postapokalyptického pražského podzemí.
+
+Momentálně mimo provoz. Děkujeme za pochopení.
